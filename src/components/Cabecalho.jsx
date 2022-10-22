@@ -5,7 +5,7 @@ import '../assets/css/cabecalho.css'
 const Cabecalho = () => {
     return (
         <header className="cabecalho">
-            <Link to="/" className="cabecalho__titulo">Comidas de Viagem</Link>
+            <Link to="/" className="cabecalho__titulo">Comida de Viagem</Link>
         </header>
     )
 }
