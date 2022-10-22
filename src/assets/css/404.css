@@ -1,0 +1,8 @@
+.naoencontrado-imagem {
+  padding: 3em;
+}
+
+.naoencontrado-texto {
+  font-size: var(--fonte-tamanho-naoencontrado-texto);
+  margin-bottom: 1rem;
+}

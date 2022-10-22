@@ -1,0 +1,28 @@
+:root {
+    --fonte-familia-corpo: 'Montserrat', sans-serif;
+    --fonte-familia-logo: 'Pacifico', cursive;
+
+    --fonte-peso-medio: 500;
+    --fonte-peso-intenso: 700;
+
+    --fonte-tamanho-logo: 1.75rem;
+    --fonte-tamanho-cartao-titulo: 1.75rem;
+    --fonte-tamanho-cartao-post-titulo: 1.375rem;
+    --fonte-tamanho-titulo-pagina: 1.5rem;
+    --fonte-tamanho-naoencontrado-texto: 1.25rem;
+
+    --cor-cabecalho: #c50707;
+    --cor-secundaria: #d7d7d7;
+    --cor-contraste-escuro: #4D4D4D;
+    --cor-contraste-claro: #fff;
+    --cor-divisao: #dadada;
+
+    --sombra: 0 5px 10px #00000038;
+}
+
+@media(min-width: 800px) {
+    :root {
+        --fonte-tamanho-logo: 2.5rem;
+        --fonte-tamanho-menu-cabecalho-item: 1rem;
+    }
+}

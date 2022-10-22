@@ -1,0 +1,131 @@
+{
+  "paises": [
+    {
+      "id": "espanha",
+      "nome": "Espanha"
+    },
+    {
+      "id": "brasil",
+      "nome": "Brasil"
+    },
+    {
+      "id": "portugal",
+      "nome": "Portugal"
+    }, 
+    {
+      "id": "italia",
+      "nome": "Itália"
+    },
+    {
+      "id": "franca",
+      "nome": "França"
+    }
+  ],
+  "posts": [
+    {
+      "id": "feijoada",
+      "title": "Feijoada",
+      "metadescription": "Um dos pratos típicos mais populares da culinária brasileira. Composta basicamente por feijão preto e diversos tipos de carne",
+      "body": "A feijoada brasileira é um guisado de feijão preto com vários tipos de carne de porco e de boi, geralmente acompanhada de farofa, arroz branco, couve refogada e laranja fatiada. É um prato muito conhecido da culinária brasileira, a primeira menção conhecida  deu-se no Recife em 1827. Nos tempos atuais não há apenas uma receita de feijoada no Brasil, dependendo da região, a receita se adapta ao clima e produções locais.",
+      "pais": "brasil"
+    },
+    {
+      "id": "moqueca",
+      "title": "Moqueca",
+      "metadescription": "É um cozido, geralmente de peixe. Típico dos estados do Pará, Bahia e Espírito Santo mas é servido em praticamente em todos os estados do Brasil.",
+      "body": "A moqueca, muqueca ou poqueca pode ser preparada com peixe, mariscos, crustáceos, galinha. Recentemente, criaram-se variações vegetarianas, substituindo-se o peixe por ingredientes como polpa de caju verde, banana-da-terra, jaca, palmito, cogumelos, tofu, berinjela, couve-flor etc. Para alguns estudiosos da gastronomia brasileira, a origem da moqueca remontaria à peixada trazida pelos portugueses, à qual os escravos africanos teriam acrescentado ingredientes da sua tradição culinária. Contudo, é importante lembrar que os indígenas tinham, no peixe, um alimento de extrema importância, assim como a farinha de mandioca. Tal associação de peixe e farinha conservou-se na combinação da moqueca com o pirão.",
+      "pais": "brasil"
+    },
+    {
+      "id": "brigadeiro",
+      "title": "Brigadeiro",
+      "metadescription": "Doce típico do Brasil, com origem paulista e rapidamente difundido pelo resto do país, sua presença é muito comum em festas de aniversário",
+      "body": "Os ingredientes do brigadeiro são simples, levando apenas leite condensado, chocolate em pó, manteiga e chocolate granulado para a cobertura. Seu preparo também é muito fácil podendo ser feito tanto no fogão quanto no micro-ondas. A origem do nome é ligada à campanha presidencial do Brigadeiro Eduardo Gomes, inicialmente feito como uma forma de arrecadar fundos para a candidatura, rapidamente ganhou popularidade e se espalhou pelo país. Com o tempo, o nome brigadeiro se tornou tão associado ao doce que o mesmo passou a ser conhecido como tal.",
+      "pais": "brasil"
+    },
+    {
+      "id": "sardinhas",
+      "title": "Sardinhas",
+      "metadescription": "É uma das 7 Maravilhas da Gastronomia de Portugal e é costume confeccionar este prato durante as festas populares.",
+      "body": "As sardinhas assadas, são um dos pratos mais saboreados da cozinha portuguesa, existindo inúmeras receitas para a sua confecção, sendo no entanto a mais utilizada a sardinha assada na brasa, um prato que aumenta exponencialmente de consumo durante as festas dos santos populares. Uma refeição de sardinhas assadas costuma designar-se por 'sardinhada'. Apesar do hábito de se chamar assada, a sardinha é de fato grelhada. Desde o século XVI era reconhecida a importância da sardinha como se comprova pelo recenseamento de peixes do litoral lusitano",
+      "pais": "portugal"
+    },
+    {
+      "id": "bacalhau",
+      "title": "Bacalhau",
+      "metadescription": "O bacalhau em Portugal é cheio de história, e mesmo vindo de longe, se transformou em símbolo da cozinha lusitana.",
+      "body": "Em Portugal, há muitos pratos, receitas e aperitivos com o bacalhau, dentre eles temos o Bacalhau à Brás (desfiado com batata palha, azeite e ovos e para temperar, cebola, salsinha e alho), o Bacalhau Gomes de Sá (em lascas, leite, cebola, alho, azeite e batatas, temperadas com sal e pimenta, salsa, pedaços de ovos cozidos e azeitonas pretas) e o Bacalhau com Natas (feito com batatas, cebola, queijo, molho bechamel e creme de leite). De aperitivos temos o clássico Bolinho de Bacalhau e o Pastel de Bacalhau.",
+      "pais": "portugal"
+    },
+    {
+      "id": "pastel_de_belem",
+      "title": "Pastel de Belém",
+      "metadescription": "O pastel de nata, ou Pastel de Belém (quando produzido em Belém), é um dos itens mais cobiçados para acompanhar o café da tarde.",
+      "body": "A receita original do Pastel de Belém é secreta e se mantém intacta desde a sua origem no século XIX. No geral, o pastel de nata é feito com uma massa folhada crocante e fininha acompanhada com um recheio que leva gemas de ovos, açúcar e leite, por fim é polvilhada com açúcar e canela. Uma delícia da doçaria portuguesa que levou o prêmio como um dos sete melhores pratos de Portugal.",
+      "pais": "portugal"
+    },
+    {
+      "id": "paella",
+      "title": "Paella",
+      "metadescription": "Uma das comidas mais tradicionais da Espanha e é fácil de preparar, feita à base de arroz e tem várias versões.",
+      "body": "A Paella é uma das comidas mais saborosas e conhecidas no mundo inteiro.A versão original é a Paella de Valência, com carnes de frango e coelho, tradicionalmente sobre uma fogueira à lenha. Mas a receita que ganhou fama fora da Espanha é a Paella Marinera, que leva frutos do mar, como camarão, polvo, lula e mexilhão. Independente do tipo, ela é preparada e servida em um tipo de frigideira rasa e larga com uma alça em cada lado chamada Paella, dando origem ao nome do prato.",
+      "pais": "espanha"
+    },
+    {
+      "id": "gazpacho",
+      "title": "Gazpacho",
+      "metadescription": "Com cores vibrantes e tão bonito quanto delicioso. O prato é, na verdade, uma sopa feita com tomate, alho, pepino, salsinha, alho e outros ingrediente.",
+      "body": "Gazpacho apresenta uma textura líquida e conta com vários ingredientes vegetais como pepino e pimentão. O caldo vermelho é basicamente uma sopa de tomate e é servido frio, mas em todo o país ganhou diversas variações. Pode ser que você encontre sabores diferentes de Gazpacho durante a sua viagem. Por sua leveza e temperatura, são bastante consumidas no verão.",
+      "pais": "espanha"
+    },
+    {
+      "id": "tortilla_espanola",
+      "title": "Tortilla Española",
+      "metadescription": "Está enraizada em todos os cantos do país e é consumida a qualquer hora em qualquer lugar, seja em casa, bares ou em restaurantes.",
+      "body": "A receita de tortilla é feita com ovos e batatas e lembra um omelete. As versões com recheio variam de acordo com a região, as mais comuns são com queijo, presunto, pimentão e linguiça. As batatas devem ser cozinhadas lentamente primeiro no óleo ou azeite de oliva, para que encharquem e amoleçam, dando a consistência ideal para o prato. Existem receitas de tortilhas veganas (que não consomem produtos de origem animal), que leva uma mistura de polvilho doce e água com amido de milho no lugar de ovos para dar liga à receita.",
+      "pais": "espanha"
+    },
+    {
+      "id": "ratatouille",
+      "title": "Ratatouille",
+      "metadescription": "O ratatouille ficou imensamente famoso após o filme do ratinho em 2007 e é essencial para a culinária francesa.",
+      "body": "Originário do século XVIII na região provençal de Nice, é conhecido como um guisado criado por camponeses e agricultores pobres que precisavam usar a colheita dos vegetais amadurecidos frescos de verão. A receita é uma explosão de sabores provenientes do cozimento de: pimentão, abobrinha, berinjela e tomate, adicionado de cebolas, alho, azeite e algumas ervas. O sabor final é divino após o cozimento em fogo baixo. Pode ser servida quente ou fria, sozinha ou como acompanhamento.",
+      "pais": "franca"
+    },
+    {
+      "id": "croissant",
+      "title": "Croissant",
+      "metadescription": "É um delicioso bolo de massa folhada em formato de meia-lua, feito de farinha, açúcar, sal, leite, fermento, manteiga e ovo para pincelar.",
+      "body": "Embora seja marca registrada como símbolo francês, o famoso croissant surgiu na verdade na Áustria e sua origem atribuída aos padeiros de Viena, como símbolo da vitória de uma batalha travada com a Turquia. No século XVII essa deliciosa receita chegou à França e ganhou o coração e o paladar dos franceses, tornando-se uma especialidade do país. O segredo do croissant está na massa, que deve ser semifolhada pois possui menos gorduras e menos dobras. As dobras são responsáveis pela separação da massa e das camadas de gordura que proporcionam a folhagem do croissant.",
+      "pais": "franca"
+    },
+    {
+      "id": "petit_gateau",
+      "title": "Petit Gateau",
+      "metadescription": "É uma sobremesa composta de um pequeno bolo de chocolate com casca e recheio cremoso geralmente acompanhado de uma bola de sorvete.",
+      "body": "A história do petit gâteau é controversa, alguns defendem que ele foi criado na Itália, outros que foi criado por um chef francês, ao errar na quantidade de farinha que usaria na receita de bolinhos. Outra versão diz que o doce foi criado por um aprendiz de chef americano que aqueceu demais o forno para preparar bolinhos, mas assim mesmo, foram servidos, conquistando a apreciação dos clientes. De qualquer forma é uma sobremesa deliciosa que já ganhou diversas variações ao redor do mundo e conquista o coração de todos que a comem.",
+      "pais": "franca"
+    },
+    {
+      "id": "pizza",
+      "title": "Pizza",
+      "metadescription": "A verdadeiramente consagrada pizza italiana é o principal alvo gastronômico de quem viaja para o país em formato de bota",
+      "body": "A pizza é uma preparação culinária que consiste em um disco de massa de farinha de trigo fermentada, coberto com molho de tomate e os ingredientes variados que normalmente incluem algum tipo de queijo, carnes preparadas ou defumadas e ervas, normalmente orégano ou manjericão, tudo assado em forno. A origem da pizza é disputada por egípcios, hebreus e outros povos. Mas uma coisa ninguém contesta: foi na Itália, especialmente na cidade de Nápoles, que ela se desenvolveu e foram criados os melhores sabores e técnicas de preparo. Uma legítima pizza possui uma borda grossa e cobertura deliciosa. Mesmo com diferentes tipos de pizza consagrados em países com forte imigração italiana, como Brasil, Estados Unidos e Argentina, o alimento continua sendo símbolo italiano. Na Itália, o sabor mais pedido é o clássico margherita.",
+      "pais": "italia"
+    },
+    {
+      "id": "raviolli",
+      "title": "Ravioli",
+      "metadescription": "É uma das receitas de massas italianas originais mais apreciadas no país e fora dele.",
+      "body": "O Ravioli trata-se de mini pastéis recheados com ingredientes diversos. A massa é feita de ovo e farinha de trigo e, depois de pronto, esses pasteizinhos são cozidos. Foi criado na Sicília, no século XII, nessa época não era recheado, mas ao longo dos anos, ganhou novas versões, formas e recheios, agradando aos mais diferentes paladares. Ao viajar para a Itália, experimente o tradicional Ravioli em uma trattoria, que são restaurantes familiares com uma proposta mais caseira.",
+      "pais": "italia"
+    },
+    {
+      "id": "tiramisu",
+      "title": "Tiramisú",
+      "metadescription": "Sobremesa italiana muito tradicional e a base de chocolate, biscoito, creme de mascarpone e café.",
+      "body": "Tiramissu procede do vêneto tirame-sú e do italiano tirami su: 'levanta-me' ou 'puxa-me para cima', assim chamado por ser muito energético. O queijo mascarpone dá o toque especial nessa que é a mais típica das sobremesas italianas. A receita também leva ingredientes como café, creme de leite, biscoito champanhe e licor. A origem dessa delícia é disputada entre as cidades italianas de Florença e Treviso.",
+      "pais": "italia"
+    }
+  ]
+}
